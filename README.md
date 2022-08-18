@@ -13,3 +13,6 @@ Airbnb data insight for Perth metropolitan area
 
 #Presentation Link:
 https://prezi.com/view/IM2Mc1xyviP36EDiIGXO/
+
+Source:
+http://insideairbnb.com/western-australia
