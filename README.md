@@ -17,8 +17,10 @@ Airbnb data insight for Perth metropolitan area
 
 ###-What price should I advertise the property to ensure I get a booking?
 
-#Presentation Link:
+## Presentation Link:
+
 https://prezi.com/view/IM2Mc1xyviP36EDiIGXO/
 
-Source:
+## Source:
+
 http://insideairbnb.com/western-australia
