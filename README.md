@@ -1,4 +1,4 @@
-# Project-1
+# Airbnb data insight for Perth
 Airbnb data insight for Perth metropolitan area
 
 ###The share economy has quickly become a big part of our life and is continuing to grow and innovate industries at a rapid rate. We have decided to gain more insight into the use of Airbnb in Perth metropolitan area. Our end goal is to find out which areas are the most sought out places to stay, how long people stay in these areas and what is an expected price to pay for these places.
